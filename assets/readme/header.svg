@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="TXT PICKER — Words matter. You decide.">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08141f"/><stop offset=".56" stop-color="#142c35"/><stop offset="1" stop-color="#0a1621"/></linearGradient>
+ <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#2c535c" stroke-opacity=".35"/></pattern>
+ <radialGradient id="glow"><stop stop-color="#7cead1" stop-opacity=".19"/><stop offset="1" stop-color="#7cead1" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="350" fill="url(#bg)"/><rect width="1200" height="350" fill="url(#grid)"/>
+<circle cx="976" cy="172" r="195" fill="url(#glow)"/>
+<path d="M18 36V15H220M1182 36V15H980M18 314V335H220M1182 314V335H980" fill="none" stroke="#88f0d9" stroke-width="2"/>
+<path d="M35 70H750M35 73H205" fill="none" stroke="#74ecd4" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+ <text x="48" y="49" fill="#84efd8" font-size="16" letter-spacing="3">HUMAN PICKER / MODULE 001</text>
+ <text x="44" y="165" fill="#ecfaf6" font-weight="800" font-size="99" letter-spacing="-3">TXT</text>
+ <text x="53" y="270" fill="#82f0d6" font-weight="800" font-size="105" letter-spacing="2">PICKER</text>
+ <text x="48" y="318" fill="#a6c4c8" font-size="17" letter-spacing="1.7">AI PROPOSES. HUMAN DECIDES. AGENT CONTINUES.</text>
+ <text x="1086" y="314" fill="#65969d" font-size="12" letter-spacing="2">DECISION // TEXT</text>
+</g>
+<g fill="none" stroke="#7cdbca" stroke-width="1.8">
+ <rect x="852" y="70" width="269" height="208" rx="2" stroke="#426a72"/>
+ <path d="M852 104H1121M852 245H1121" stroke="#385d65"/>
+ <circle cx="889" cy="88" r="6" fill="#85efda" stroke="none"/>
+ <path d="M902 88H1033" stroke="#70949b" stroke-width="3"/>
+ <rect x="879" y="120" width="214" height="40" stroke="#5b9a96"/>
+ <rect x="879" y="169" width="214" height="40" fill="#1a4843" stroke="#83eed2"/>
+ <circle cx="900" cy="140" r="7"/><circle cx="900" cy="189" r="7" fill="#85efda" stroke="#85efda"/>
+ <path d="M921 137H1064M921 143H1029M921 186H1073M921 192H1023" stroke="#95b5b5" stroke-width="3" opacity=".85"/>
+ <path d="M879 231H965" stroke="#5b8a8b" stroke-width="3"/>
+ <rect x="1033" y="220" width="60" height="16" fill="#86edcf" stroke="none"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif"><text x="889" y="265" fill="#7ec7be" font-size="9" letter-spacing="1.5">HUMAN CONFIRMED</text></g>
+</svg>
